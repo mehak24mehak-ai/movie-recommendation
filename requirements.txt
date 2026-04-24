@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-requests
-openpyxl
-seaborn
-sympy
-PyYAML
-python-dateutil
